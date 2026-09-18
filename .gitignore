@@ -9,6 +9,9 @@ dist/
 web-build/
 expo-env.d.ts
 
+# NativeWind cache
+node_modules/react-native-css-interop/.cache/
+
 # Native
 .kotlin/
 *.orig.*
